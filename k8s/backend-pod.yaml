@@ -6,7 +6,7 @@ metadata:
   name: backend
 spec:
   containers:
-  - image: 192.168.1.150:5000/my-backend
+  - image: localhost:5000/my-backend
     name: backend
     ports:
     - containerPort: 3000
