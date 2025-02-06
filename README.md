@@ -54,7 +54,7 @@ This project demonstrates a full-stack application with a **frontend**, **backen
    docker-compose up --build
 3. Access the Application
 
-### Running with Docker Compose
+### Running with Docker Compose   
 - **Frontend**: [http://localhost:80](http://localhost:80)
 - **Backend API**: [http://localhost:3000](http://localhost:3000)
 
