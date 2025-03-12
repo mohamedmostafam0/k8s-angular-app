@@ -47,12 +47,13 @@ This project demonstrates a full-stack application with a **frontend**, **backen
 ### Running with Docker Compose
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/mohamedmostafam0/k8s-angular-app.git
+   cd k8s-angular-app
 2. Build and start the services:
-   '''bash
+   ```bash
    docker-compose up --build
-3. Access the Application
+   ```
+4. Access the Application
 
 ### Running with Docker Compose   
 - **Frontend**: [http://localhost:80](http://localhost:80)
